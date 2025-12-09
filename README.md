@@ -1,6 +1,6 @@
 # Lampiran Skripsi: Bukti Matematis Model ΛCDM dan Teori MOND
 
-File-file dalam repositori ini merupakan bagian dari lampiran skripsi yang membahas analisis matematis mendalam mengenai dua model utama dalam astrofisika modern:
+File-file dalam repositori ini merupakan bagian dari lampiran skripsi yang membahas analisis matematis mengenai dua model utama dalam astrofisika modern:
 
 1. **Model ΛCDM** (Lambda-Cold Dark Matter) – model kosmologi standar
 2. **Teori MOND** (Modified Newtonian Dynamics) – alternatif untuk materi gelap
