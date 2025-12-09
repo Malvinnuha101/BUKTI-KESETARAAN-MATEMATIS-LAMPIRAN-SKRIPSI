@@ -1,3 +1,5 @@
+HARUS DOWNLOAD FILE PDF TERLEBIH DAHULU ...
+
 # Lampiran Skripsi: Bukti Matematis Model ΛCDM dan Teori MOND
 
 File-file dalam repositori ini merupakan bagian dari lampiran skripsi yang membahas analisis matematis mengenai dua model utama dalam astrofisika modern:
