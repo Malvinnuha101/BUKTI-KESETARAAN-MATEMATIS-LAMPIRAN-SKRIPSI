@@ -32,5 +32,3 @@ Berisi analisis matematis untuk:
 
 
 Jika ada pertanyaan atau masukan, silakan hubungi penulis melalui repositori ini atau email yang tercantum.
-
-**Terima kasih telah membaca!** 🙏
